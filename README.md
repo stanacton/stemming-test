@@ -20,11 +20,26 @@ Friends are friendlier friendlies that are friendly and classify the friendly cl
 ````
 
 ### Acceptance Criteria
-* 'following' appears 1 time
-* 'flow' appears 2 times
-* 'classification' appears 1 time
-* 'class' appears 1 time
-* 'flower' appears 3 times
-* 'friend' appears 4 times
-* 'friendly' appears 4 times
-* 'classes' appears 1 time
+|Search Term      | Occurrences |
+|-----------------|-------------|
+| following       | 1           |
+| flow            | 2           |
+| classification  | 1           |
+| class           | 1           |
+| flower          | 3           |
+| friend          | 4           |
+| friendly        | 4           |
+| classes         | 1           |
+
+
+### Constraints
+* Your application must demonstrate it meets the acceptance criteria.
+* You can NOT use any stemming frameworks or libraries. 
+* Your solution must be able to be run on Windows 7.
+* Solutions can be submitted by committing your code to GitHub and providing the link - OR - email a zip file to david.coleman@uk.bnpparibas.com
+* We wouldn't expect this to take more than 2 hours. 
+
+### Optional
+* Write any assumptions you've made.
+
+
