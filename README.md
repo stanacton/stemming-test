@@ -36,7 +36,6 @@ Friends are friendlier friendlies that are friendly and classify the friendly cl
 * Your application must demonstrate it meets the acceptance criteria.
 * You can NOT use any stemming frameworks or libraries. 
 * Your solution must be able to be run on Windows 7.
-* Solutions can be submitted by committing your code to GitHub and providing the link - OR - email a zip file to david.coleman@uk.bnpparibas.com
 * We wouldn't expect this to take more than 2 hours. 
 
 ### Optional
